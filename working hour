@@ -1,0 +1,5 @@
+workinghour = int(input("Enter the hour (0-23): "))
+if workinghour >= 9 and workinghour < 17:
+    print("The store is OPEN")
+else:
+    print("The store is CLOSED")
