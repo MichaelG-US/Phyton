@@ -1,0 +1,5 @@
+eggs = 3
+flour = eggs * 2
+
+print("Eggs:", eggs)
+print("Cups of flour needed:", flour)
